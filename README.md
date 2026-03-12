@@ -3,7 +3,6 @@
 ## English
 
 This project is an experimental exercise I carried out during the August holidays for my own entertainment. It implements a single artificial neuron using only the **numpy** and **matplotlib** libraries, without relying on frameworks such as TensorFlow or PyTorch.  
-It is written in the Menorquí dialect of Catalan because it is the language I think in, and this project really was solely for my entertainment, not for publication.
 
 ### Technical Overview
 
@@ -30,7 +29,6 @@ It is written in the Menorquí dialect of Catalan because it is the language I t
 ## Català
 
 Aquest projecte és un exercici experimental que he realitzat durant les vacances d'agost per entretenir-me. S'implementa una única neurona artificial utilitzant només les llibreries **numpy** i **matplotlib**, sense recórrer a frameworks com TensorFlow o PyTorch.  
-Està escrit en el dialecte del català menorquí, ja que és l'idioma en què penso, i aquest projecte realment era únicament per entretenir-me, no per publicar.
 
 ### Descripció tècnica
 
@@ -57,7 +55,6 @@ Està escrit en el dialecte del català menorquí, ja que és l'idioma en què p
 ## Español
 
 Este proyecto es un ejercicio experimental que he realizado durante las vacaciones de agosto para entretenerme. Se implementa una única neurona artificial utilizando únicamente las librerías **numpy** y **matplotlib**, sin depender de frameworks como TensorFlow o PyTorch.  
-Está escrito en el dialecto menorquín del catalán, ya que es el idioma en el que pienso, y este proyecto realmente era únicamente para entretenerme, no para publicar.
 
 ### Descripción técnica
 
@@ -78,3 +75,4 @@ Está escrito en el dialecto menorquín del catalán, ya que es el idioma en el 
 
 - **Futuro del proyecto:**  
   En un futur pròxim desenvoluparé un segon projecte en el qual crearé múltiples neurones per formar una xarxa neuronal completa.
+
